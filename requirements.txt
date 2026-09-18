@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel
 pyTelegramBotAPI==4.22.1
 pyrebase4==4.8.0
 requests==2.31.0
@@ -5,4 +7,3 @@ urllib3==1.26.20
 certifi==2024.8.30
 charset-normalizer==3.3.2
 idna==3.7
-setuptools>=65.0.0
