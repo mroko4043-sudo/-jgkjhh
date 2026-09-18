@@ -1,0 +1,5 @@
+<write_file>
+<file_path>/home/workdir/artifacts/runtime.txt</file_path>
+<content>python-3.11.9
+</content>
+</write_file>
